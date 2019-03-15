@@ -1,0 +1,14 @@
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\bin\Debug\netcoreapp2.2\Csbe.Todo.Api.deps.json
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\bin\Debug\netcoreapp2.2\Csbe.Todo.Api.runtimeconfig.json
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\bin\Debug\netcoreapp2.2\Csbe.Todo.Api.runtimeconfig.dev.json
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\bin\Debug\netcoreapp2.2\Csbe.Todo.Api.dll
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\bin\Debug\netcoreapp2.2\Csbe.Todo.Api.pdb
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.RazorAssemblyInfo.cache
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.RazorAssemblyInfo.cs
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.RazorTargetAssemblyInfo.cache
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.dll
+C:\Users\vmadmin\Desktop\todoApi\Csbe.Todo.Api\obj\Debug\netcoreapp2.2\Csbe.Todo.Api.pdb
